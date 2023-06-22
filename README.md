@@ -1,4 +1,4 @@
-**LINUX FILE PERMISSIONS**
+**<h1>LINUX FILE PERMISSIONS</h1>**
 
 File permissions in Linux
 Project description
